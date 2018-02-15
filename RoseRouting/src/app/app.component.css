@@ -1,0 +1,7 @@
+.active {
+    background-color: rgba(255, 255, 255, .10)
+}
+
+mat-card{
+    margin: 50px;
+}
