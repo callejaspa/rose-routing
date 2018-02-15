@@ -34,6 +34,7 @@ import {
   MatToolbarModule,
   MatTooltipModule
 } from '@angular/material';
+import { MoenchComponent } from './+moench/moench.component';
 
 export const MaterialModules = [
   MatAutocompleteModule,
@@ -67,6 +68,7 @@ export const MaterialModules = [
     AppComponent,
     HomeComponent,
     SigninComponent,
+    MoenchComponent,
   ],
   imports: [
     BrowserModule,
